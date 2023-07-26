@@ -1,0 +1,1 @@
+Webpack Module Federation Implementation Starter
